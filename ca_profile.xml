@@ -1,0 +1,13 @@
+<CommunityApplications>
+  <Profile>
+Unraid templates by tg099.
+
+**Crossfade** keeps liked songs, libraries and playlists in sync across music streaming services: one way, both ways or in groups. Self-hosted, several people per instance.
+
+Questions and bug reports: [Crossfade issues on GitHub](https://github.com/tg099/crossfade/issues). Problems with the template itself: [issues of this repository](https://github.com/tg099/unraid-templates/issues).
+  </Profile>
+  <Icon>https://raw.githubusercontent.com/tg099/crossfade/main/web/static/icon.png</Icon>
+  <WebPage>https://github.com/tg099/unraid-templates</WebPage>
+  <DonateLink>https://buymeacoffee.com/tg099</DonateLink>
+  <DonateText>Like Crossfade? Buy me a coffee.</DonateText>
+</CommunityApplications>
